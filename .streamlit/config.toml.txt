@@ -1,0 +1,4 @@
+[compatibility]
+# Use a specific Python version for deployment
+# Python 3.9 is often more stable for deployment than newer versions
+pythonVersion = "3.9"
